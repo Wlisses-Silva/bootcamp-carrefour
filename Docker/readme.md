@@ -1,1 +1,0 @@
-Descrição de como vamos usar o Docker neste projeto.
